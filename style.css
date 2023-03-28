@@ -9,6 +9,10 @@ body{
 	font-weight: lighter;
 }
 
+img {
+  border-radius: 50%;
+}
+
 h1,h2,h3{
 	font-family: 'Roboto', sans-serif;
 }
